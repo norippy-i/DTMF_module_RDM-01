@@ -22,7 +22,7 @@ RDM-01　-DTMF decoder module- manual
  
 この音は特定の２種類の周波数の合成波(１６種類あります)で、２種類の音をICが解析することで割り当てられた特定の数字として認識し、その結果を４つのピンのHIGH、LOWで表現します。
 
-[MT8870 datasheet](https://github.com/user-attachments/files/27486981/32697mpdata.pdf)]
+[MT8870 datasheet](https://github.com/user-attachments/files/27486981/32697mpdata.pdf)
 
  
  ## 使い方
@@ -32,7 +32,7 @@ RDM-01　-DTMF decoder module- manual
 
  5つのGPIOのうち4つは、16種類あるDTMF信号の、何番なのかを表現するためにあり、1つは取得できたことを伝えるためにあります。
   
-![RDMdetal](https://cue.official.jp/wp-content/uploads/2018/11/IMG_8473-1-scaled.jpg)
+![RDMdetal](https://cue.official.jp/wp-content/uploads/2019/01/RDM-01View-1-1.png)
  
  実際の基板の画像と照らし合わせて説明すると、以下の機能を示します。
  - +5V -> ５Vピン　
